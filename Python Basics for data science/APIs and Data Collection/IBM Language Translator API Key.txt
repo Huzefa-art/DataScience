@@ -1,0 +1,2 @@
+fkPwr1wRvg-fZXf3rQziBzpz_qBXuU_UNH7xOKcDMnA0
+https://api.us-south.language-translator.watson.cloud.ibm.com/instances/fe2c5943-2ab9-4fec-8311-20366b365b0c
